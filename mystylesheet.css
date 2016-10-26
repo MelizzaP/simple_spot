@@ -1,0 +1,15 @@
+body {
+  background: green;
+}
+
+h1 {
+  padding-top: 30%;
+  text-align: center;
+}
+
+.spotlight {
+  background: rgba(255, 219, 135, .5);
+  height: 100px;
+  position: absolute;
+  width: 100px;
+}
