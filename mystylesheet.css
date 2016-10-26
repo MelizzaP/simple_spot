@@ -9,6 +9,7 @@ h1 {
 
 .spotlight {
   background: rgba(255, 219, 135, .5);
+  box-shadow: 0 0 0 99999px rgba(0, 0, 0, .999);
   height: 100px;
   position: absolute;
   width: 100px;
