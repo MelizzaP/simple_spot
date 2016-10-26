@@ -16,7 +16,7 @@ function trackMouse () {
     });
   });
 }
-sayHi();
+
 $(document).ready(function () {
   createSpotDomElements()
   trackMouse();

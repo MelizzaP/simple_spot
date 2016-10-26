@@ -1,5 +1,6 @@
 body {
   background: green;
+  cursor: url(candle.gif) 1 1, pointer;
 }
 
 h1 {
